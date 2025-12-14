@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Student_Management</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>docs/screenshots/Structure.png</name>
+			<type>1</type>
+			<location>C:/Users/nagur/OneDrive/Pictures/Screenshots/Screenshot 2025-12-14 144407.png</location>
+		</link>
+		<link>
+			<name>docs/screenshots/Stuident_UI.png</name>
+			<type>1</type>
+			<location>C:/Users/nagur/OneDrive/Pictures/Screenshots/Screenshot 2025-12-14 144923.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
