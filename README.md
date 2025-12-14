@@ -82,8 +82,8 @@ StudentUI.java
 ```
 
 ### StudentUI.java
-![Student Management Structure](docs/screenshots/Structure.png)
-![Student Management System](docs/screenshots/Student_UI.png)
+- ![**Student Management Structure**](docs/screenshots/Structure.png)
+- ![**Student Management System**](docs/screenshots/Student_UI.png)
 
 ### 🎯 Learning Outcomes
 
